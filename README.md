@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Orlando E. Martínez-Durive
-- 👀 I’m interested in Data Science 👨‍💻, Viz 📈, R 
-- 🌱 I’m currently learning Big Data
-- 💞️ I’m looking to collaborate on Mobile traffic analysis 📱
+- 👋 Hi, I’m Orlando E. Martínez-Durive, a research assistant at IMDEA Networks and PhD student at University Carlos III de Madrid, Spain 🤔.
+- 👀 I’m interested in Data Science 👨‍💻, Viz 📈, Python, Spark, clustering and all this cool stuff 🤓.
+- 🌱 Now, I'm working on Remote sensing using Mobile traffic analysis 📱 📡.
 - 📫 How to reach me [@14ndy15](https://twitter.com/14ndy15)
 
 <!---
