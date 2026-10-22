@@ -13,7 +13,7 @@
 • BGP routing & internet resilience
 
 📍 Find me:
-📧 orlando@netai.tech | 𝕏 [@14ndy15](https://twitter.com/14ndy15) | Scholar: [Publications](https://scholar.google.com/citations?user=VK4VVFwAAAAJ)
+📧 orlando(at)netai.tech | 𝕏 [@14ndy15](https://twitter.com/14ndy15) | Scholar: [Publications](https://scholar.google.com/citations?user=VK4VVFwAAAAJ)
 
 <!---
 14ndy15/14ndy15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
